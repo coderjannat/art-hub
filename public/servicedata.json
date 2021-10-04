@@ -1,0 +1,33 @@
+[
+    
+  {
+    "id": "emp121",
+    "name": "Canvas Art",
+    "designation": "Beginner Level Canvas Learning.Grab a marker and follow along with us.",
+    "description":"Here is where you'll find every single on of our how to draw lessons! It's a massive drawing library! You'll find lessons for young and old kids. You'll find everything from how to draw on canvas. So, what are you waiting for? Grab a marker and follow along with us.",
+    "image": "https://images.pexels.com/photos/7104336/pexels-photo-7104336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": "emp152",
+    "name": "Intensive art",
+    "designation": "We provide special care to our angels.Grab a marker and follow along with us.",
+     "description":"Here is where you'll find every single on of our how to draw lessons! It's a massive drawing library! You'll find lessons for young and old kids. You'll find everything from how to draw on canvas. So, what are you waiting for? Grab a marker and follow along with us.",
+    "image": "https://images.pexels.com/photos/7104212/pexels-photo-7104212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": "emp173",
+    "name": "Puzzle for Kids",
+    "designation": "Puzzle game makes a child more creative.So make your child smart with us.",
+    "description":"Here is where you'll find every single on of our how to draw lessons! It's a massive drawing library! You'll find lessons for young and old kids. You'll find everything from how to draw on canvas. So, what are you waiting for? Grab a marker and follow along with us.",
+    "image": "https://images.pexels.com/photos/7104215/pexels-photo-7104215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+
+  {
+    "id": "emp182",
+    "name": "Pastel",
+    "designation": "A pastel is an art medium which children can explore there imagination",
+    "description":"Here is where you'll find every single on of our how to draw lessons! It's a massive drawing library! You'll find lessons for young and old kids. You'll find everything from how to draw on canvas. So, what are you waiting for? Grab a marker and follow along with us.",
+    "image": "https://images.pexels.com/photos/159579/crayons-coloring-book-coloring-book-159579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  }
+    
+  ]
