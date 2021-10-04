@@ -1,6 +1,6 @@
 
 
-# LIve site link  [site-link](https://arthub-by-jannatul-fardous.netlify.app/).
+# Live site link  [site-link](https://arthub-by-jannatul-fardous.netlify.app/).
 
 # CSS framwork [React Bootstrap]
 
